@@ -1,5 +1,5 @@
 ### bem vindo ao meu perfil 🌸
-meu nome é Vitoria
+meu nome é Vitoria Amaral
 
 - estou estudando no [Alura](https:www.alura.com.br)
 - estou fazendo javascrit.
